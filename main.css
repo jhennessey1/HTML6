@@ -1,0 +1,33 @@
+.name {
+	float: left;
+	color: white;
+	vertical-align: middle;
+	line-height: 30px
+}
+
+.top {
+	background-color: black;
+	padding: 8px;
+}
+
+.topRight {
+	float: right;
+}
+
+.green {
+	background-color: #00cc00;
+	color: white;
+}
+
+.greeting {
+	background-color: #e5ffe5;
+}
+
+.hello {
+	padding: 40px;
+}
+
+.bottom {
+	border-bottom: 1px solid gray;
+	padding: 5px;
+}
